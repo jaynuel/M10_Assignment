@@ -1,9 +1,5 @@
-# M10_Assignment
-M10 Assignment: Web Scraping with Selenium
+ Web Scraping with Selenium
 
-
-M10 Assignment: Create web-scraper to load csv file into S3 Bucket (100 pts.)
-In this lab, we will use Selenium to scrape a website and store the file in an s3 bucket.
 
 Getting Started
 Note that there are dependencies. You will need to configure and install awscli and boto3 and be sure you give access to an S3 bucket. You can find documentation here. Additional modules required include time, pandas, and selenium. You will also need to ensure that you have the Google Chrome webdriver installed. See here for further instructions.  

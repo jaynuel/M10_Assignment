@@ -49,11 +49,9 @@ For this portion of the lab, you are going to alter the script, M10_webscraper_a
 Once the test has passed, commit the changes to the master branch of your GitHub repository, updating the script and the file on s3.  
 Submitting the Assignment.
 
-Your result should contain an updated .ipybn file that iterates through the table on the Charities Bureau Website and downloads the data into a clean CSV file (no skipped header). 
 
-This file should be loaded directly into the s3 bucket you created. 
 
-Add your instructor as a collaborator and upload the link to your repository as a response to this Assignment. 
+
 
 
 
